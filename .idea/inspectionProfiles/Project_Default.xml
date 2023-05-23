@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="linvite.core.mixins.AuthTokenMixin.*" />
+          <option value="factory" />
+          <option value="django.db.models.fields.related.OneToOneField.*" />
+          <option value="linvite.admins.serializers.*" />
+          <option value="rest_framework_simplejwt" />
+          <option value="linvite.communications.utils.python_http_client" />
+          <option value="tuple.set" />
+          <option value="BaseException.tb_lineno" />
+          <option value="spexbot.submissions.models.FileSubmission.pia_submissions" />
+          <option value="spexbot.iehp.models.IEHPOrderSubmission.*" />
+          <option value="spexbot.iehp.models.IEHPOrder.*" />
+          <option value="spexbot.pia.models.PIAOrder.objects" />
+          <option value="spexbot.pia.models.PIAOrderSubmission.objects" />
+          <option value="spexbot.eyefinity.models.EyefinityOrder.objects" />
+          <option value="spexbot.eyefinity.models.EyefinityOrderSubmission.objects" />
+          <option value="spexbot.ttsource.models.TTSourceOrder.objects" />
+          <option value="spexbot.ttsource.models.TTSourceOrderSubmission.objects" />
+          <option value="spexbot.eyefinity.models.EyefinityOrder.submission" />
+          <option value="django.db.models.fields.CharField.split" />
+          <option value="spexbot.eyefinity.models.EyefinityOrderSubmissionImage.id" />
+          <option value="spexbot.eyefinity.models.EyefinityServiceCodeCharge.objects" />
+          <option value="spexbot.eyefinity.models.EyefinityCredential.id" />
+          <option value="spexbot.gspread.views.constance" />
+          <option value="spexbot.gspread.handlers.constance" />
+          <option value="spexbot.gspread.handlers.GoogleSheetHandler.log_operation" />
+          <option value="django.db.models.TextChoices" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
